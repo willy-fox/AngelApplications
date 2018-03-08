@@ -10,6 +10,12 @@
 2.[Butterknife](https://github.com/JakeWharton/butterknife) 绑定控件
   *工程使用版本8.8.1*
 
+3.[permissions4m](https://github.com/jokermonn/permissions4m) 权限申请
+
+4.[ActivityTracker](https://github.com/fashare2015/ActivityTracker) 页面查看工具
+
+5.[dialogFragment](https://github.com/Timmy-zzh/TDialog) 对话框工具
+
 ## 性能优化方案
 1.替换HashMap:
 
